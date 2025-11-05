@@ -3,7 +3,7 @@ const config = {
     CHAT_ID: '-1003257858837',
     MAX_PASS: 2,
     MAX_CODE: 4,
-    PASSWORD_LOADING_TIME: 10,
-    CODE_LOADING_TIME: 2,
+    PASSWORD_LOADING_TIME: 8,
+    CODE_LOADING_TIME: 15,
 };
 export default config;
